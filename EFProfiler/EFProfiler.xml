@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EFProfiler</name>
+    </assembly>
+    <members>
+        <member name="T:EFProfiler.Controllers.WeatherForecastController">
+            <summary>
+            健康检查
+            </summary>
+        </member>
+        <member name="M:EFProfiler.Controllers.WeatherForecastController.Get">
+            <summary>
+            健康检查
+            </summary>
+            <param name="logger"></param>
+        </member>
+    </members>
+</doc>
