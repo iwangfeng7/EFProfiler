@@ -4,6 +4,12 @@
         <name>EFProfiler</name>
     </assembly>
     <members>
+        <member name="M:EFProfiler.Controllers.HomeController.Put(System.String)">
+            <summary>
+            插入
+            </summary>
+            <param name="str"></param>
+        </member>
         <member name="T:EFProfiler.Controllers.WeatherForecastController">
             <summary>
             健康检查
@@ -14,6 +20,21 @@
             健康检查
             </summary>
             <param name="logger"></param>
+        </member>
+        <member name="T:EFProfiler.Model.Student">
+            <summary>
+            学生
+            </summary>
+        </member>
+        <member name="P:EFProfiler.Model.Student.ID">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:EFProfiler.Model.Student.Name">
+            <summary>
+            姓名
+            </summary>
         </member>
     </members>
 </doc>
